@@ -1,2 +1,2 @@
 # demoapp
-developed in sailjs and angularjs
+developed in ExpressJS and AngularJS
